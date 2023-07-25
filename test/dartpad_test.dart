@@ -1,4 +1,4 @@
-import 'package:dartpad/cli.dart';
+import 'package:dartpad/dartpad.dart';
 import 'package:test/test.dart';
 
 void main() {
