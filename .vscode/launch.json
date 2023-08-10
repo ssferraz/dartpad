@@ -8,7 +8,7 @@
             "name": "dartpad",
             "request": "launch",
             "type": "dart",
-            "program": "bin/dartpad.dart",
+            "program": "bin/exercicio1.dart",
             "console": "terminal"
         }
     ]
