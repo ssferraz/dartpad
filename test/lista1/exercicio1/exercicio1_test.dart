@@ -1,4 +1,4 @@
-import 'package:dartpad/lista1/exercicio1/exercicio1.dart';
+import 'package:dartpad/lista1/exercicio1/calculadora.dart';
 import 'package:test/test.dart';
 
 void main() {
